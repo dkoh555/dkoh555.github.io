@@ -1,6 +1,11 @@
 # dkoh555.github.io
 # Robots are cool!
 
+# Contents:
+[About Me](./about_me.html)
+Portfolio
+Resume
+
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
