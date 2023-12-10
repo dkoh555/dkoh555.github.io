@@ -2,8 +2,8 @@
 # Robots are cool!
 
 # Contents:
-[About Me](./about_me.md)
-Portfolio
+[About Me](./about_me.md)</br>
+Portfolio</br>
 Resume
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
