@@ -1,7 +1,27 @@
-# dkoh555.github.io
-# Robots are cool!
+# Porfolio
+## Intro
+Welcome to my portfolio! Here, you'll discover a range of engineering projects showcasing my experience in areas like C/C++ and Python programming, Robot Operating System (ROS), and Embedded Systems. While I have a strong interest in robotics, constantly seeking to expand my knowledge and skills, I'm also enthusiastic about exploring new and potentially intriguing fields.
 
-# Contents:
+To learn more about me, click [here](./about_me.md).
+
+You can find my resume here.
+
+## Projects
+
+![IMG_8969](https://github.com/dkoh555/dkoh555.github.io/assets/107823507/22114cfc-0af5-46ef-bf0b-f2182068b086 | width=400 height=790)
+
+
+
+| head1        | head two          |
+|:-------------|:------------------|
+| <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/22114cfc-0af5-46ef-bf0b-f2182068b086" height="250"> | <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/f6ca5a1a-43a8-4dc5-a4b3-e7509277276b" height="250"> |
+| Translator Robot: PolyglotBot | ROS Package: unified_teleop |
+| <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/9c434e6d-39fc-494a-a244-c64629068f32" height="250"> | <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/eb0f179e-fc5b-4eef-90be-32765267832a" height="250"> |
+| Room Explorer Robot | Gesture Tracking Glove Prototype |
+
+
+
+
 [About Me](./about_me.md)</br>
 Portfolio</br>
 Resume
