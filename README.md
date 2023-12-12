@@ -32,8 +32,8 @@ Resume
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-| Italic             |  Block letters |
-:-------------------------:|:-------------------------:
- | 
- | 
+|         |           |  |
+|:-------------|:------------------|:------|
+![IMG_8969](https://github.com/dkoh555/dkoh555.github.io/assets/107823507/22114cfc-0af5-46ef-bf0b-f2182068b086) | ![frontier_explore_3](https://github.com/dkoh555/dkoh555.github.io/assets/107823507/9c434e6d-39fc-494a-a244-c64629068f32) | ![unified_teleop](https://github.com/dkoh555/dkoh555.github.io/assets/107823507/f6ca5a1a-43a8-4dc5-a4b3-e7509277276b) |
+![glove_prototype](https://github.com/dkoh555/dkoh555.github.io/assets/107823507/eb0f179e-fc5b-4eef-90be-32765267832a) | test | test |
  | 
