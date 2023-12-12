@@ -24,3 +24,16 @@ Resume
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+|  |  |  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+| Italic             |  Block letters |
+:-------------------------:|:-------------------------:
+ | 
+ | 
+ | 
