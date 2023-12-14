@@ -3,13 +3,27 @@ Welcome to my portfolio! Here, you'll discover a range of engineering projects s
 
 To learn more about me and how to reach out, click [here](./about_me.md).
 
-You can find my resume [here](./about_me.md).
+You can find my resume [here](./Damien_Koh_Resume_111323.pdf).
 
 ## Highlight Projects
 
-[Translator Robot: PolyglotBot](./_project_pages/polyglotbot.md)
+[Translator Robot: PolyglotBot](./polyglotbot.md)
 
 <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/e6e8e5cb-9801-44ce-98b2-bed67c8d6733" height="250">
+
+[ROS Teleoperation Package: unified_teleop](./unified_teleop.md)
+
+<img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/2757bfbe-121a-49fd-bd30-0d3f5f6c0cd7" height="250">
+
+[Exploration Robot](./exploration_robot.md)
+
+<img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/9f44426c-2cb9-405b-9ec9-8b5542ffffde" height="250">
+
+[Gesture Tracking Glove Prototype](./gesture_tracking_glove.md)
+
+<img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/d0df4512-65c9-4a40-bcbd-4b71b15ff030" height="250">
+
+
 
 
 | head1        | head two          |
