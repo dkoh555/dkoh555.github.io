@@ -7,6 +7,8 @@ To learn more about me and how to reach out, click [here](./about_me.md).
 
 You can also view my resume [here](./Damien_Koh_Resume_111323.pdf).
 
+To view my entire collection of projects, click [here](./all_projects.md).
+
 ## Highlight Projects
 
 [Translator Robot: PolyglotBot](./polyglotbot.md): In a team, developed an autonomous system translating written phrases and writing them onto a whiteboard with a Franka Robot Arm.
@@ -28,7 +30,3 @@ You can also view my resume [here](./Damien_Koh_Resume_111323.pdf).
 [Gesture Tracking Glove Prototype](./gesture_tracking_glove.md): Developed a gesture-tracking glove with a custom PCB, using ESP32 and a variety of sensors for real-time visualization on web platforms.
 
 <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/d0df4512-65c9-4a40-bcbd-4b71b15ff030" height="250">
-
-## All Projects
-
-To view my entire collection of projects, click [here](./all_projects.md).
