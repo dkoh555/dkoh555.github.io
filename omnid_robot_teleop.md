@@ -14,13 +14,13 @@ This work initiated the ROS Unified_Teleoperation project. More details are avai
 ### Videos
 
 Float Control Scheme:
-
-https://github.com/dkoh555/dkoh555.github.io/assets/107823507/db23b655-04e1-4704-b2de-e2fb46c46e75
+<video src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/db23b655-04e1-4704-b2de-e2fb46c46e75" height="300">
 
 Car Control Scheme:
+<video src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/b8ed2b6f-1232-44ad-8f2b-943f2e739c3f" height="300">
 
-https://github.com/dkoh555/dkoh555.github.io/assets/107823507/b8ed2b6f-1232-44ad-8f2b-943f2e739c3f
-
+Tank Control Scheme:
+<video src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/0fc9a924-67c6-47ff-a34c-3f26b8dfee6d" height="300">
 
 ### Images
 
