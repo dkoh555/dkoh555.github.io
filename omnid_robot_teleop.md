@@ -16,8 +16,7 @@ This work initiated the ROS Unified_Teleoperation project. More details are avai
 Float Control Scheme:
 
 <iframe
-    width="100%"
-    height="100%"
+    width="560" height="315"
     src="https://www.youtube.com/embed/SEuFfONryL0?si=kPV-umQ_8n-iz52Z"
     frameborder="0"
     allow="autoplay; encrypted-media"
