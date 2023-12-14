@@ -4,5 +4,9 @@ Hailing from Singapore, my life has been a global journey, with memorable stays 
 My passion for STEM and robotics was ignited early on, kindled by my fascination with video games, movies, and comic books - particularly the 2008 movie 'Iron Man'. Outside of my academic and professional pursuits, I enjoy cooking, boxing, and scuba diving, while still making time for my original inspirations - video games, movies, and TV shows.
 Continuing my journey at Northwestern, I am excited to explore the vast potential of robotics and technology, embracing the opportunities and challenges they offer!
 
-# Resume
-(WIP)
+# Contact Me
+Email: damienkoh2025@u.northwestern.edu
+
+LinkedIn: https://www.linkedin.com/in/damien-tze-in-koh/
+
+Phone Number: +1 (847) 868 6251

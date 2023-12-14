@@ -1,15 +1,15 @@
 # Porfolio
-## Intro
 Welcome to my portfolio! Here, you'll discover a range of engineering projects showcasing my experience in areas like C/C++ and Python programming, Robot Operating System (ROS), and Embedded Systems. While I have a strong interest in robotics, constantly seeking to expand my knowledge and skills, I'm also enthusiastic about exploring new and potentially intriguing fields.
 
-To learn more about me, click [here](./about_me.md).
+To learn more about me and how to reach out, click [here](./about_me.md).
 
-You can find my resume here.
+You can find my resume [here](./about_me.md).
 
-## Projects
+## Highlight Projects
 
-![IMG_8969](https://github.com/dkoh555/dkoh555.github.io/assets/107823507/22114cfc-0af5-46ef-bf0b-f2182068b086 | width=400 height=790)
+[Translator Robot: PolyglotBot](./_project_pages/polyglotbot.md)
 
+<img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/e6e8e5cb-9801-44ce-98b2-bed67c8d6733" height="250">
 
 
 | head1        | head two          |
