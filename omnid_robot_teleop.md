@@ -18,7 +18,7 @@ Float Control Scheme:
 <iframe
     width="100%"
     height="50px"
-    src="https://www.youtube.com/watch?v=SEuFfONryL0&t=5s"
+    src="https://www.youtube.com/embed/SEuFfONryL0?si=kPV-umQ_8n-iz52Z"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
