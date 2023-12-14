@@ -21,7 +21,7 @@ You can also view my resume [here](./Damien_Koh_Resume_111323.pdf).
 
 <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/9f44426c-2cb9-405b-9ec9-8b5542ffffde" height="250">
 
-[Omnid Robot Teleoperation](./omnid_robot_teleop.md): Programmed a robot that utilizes Frontier Exploration to explore a simulated environment in ROS & Gazebo.
+[Omnid Robot Teleoperation](./omnid_robot_teleop.md): Developed teleoperation features for Northwestern's custom Omnid robots, supporting varied control modes and enabling experiments in human-robot collaboration.
 
 <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/461f9df4-3ab1-4e97-b60f-5fcdf4fd01e1" height="250">
 
