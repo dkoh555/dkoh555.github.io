@@ -3,11 +3,13 @@ Welcome to my portfolio! Here, you'll discover a range of engineering projects s
 
 While I have a strong interest in robotics, constantly seeking to expand my knowledge and skills, I'm also enthusiastic about exploring new and potentially intriguing fields.
 
+My upcoming coursework and projects in January to March 2024 will include SLAM & Navigation for Robotics, Feedback Systems, and Machine Learning.
+
 To learn more about me and how to reach out, click [here](./about_me.md).
 
-You can also view my resume [here](./Damien_Koh_Resume_111323.pdf).
+You can also view my resume [here](./resume.pdf).
 
-To view my entire collection of projects, click [here](./all_projects.md).
+<!-- To view my entire collection of projects, click [here](./all_projects.md). ADD THIS WHEN DONE-->
 
 ## Highlight Projects
 
