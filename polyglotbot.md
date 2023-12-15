@@ -2,6 +2,17 @@
 
 ## Video Demo
 
+The following demonstration is at 5x speed:
+
+<iframe
+    width="560" height="315"
+    src="https://www.youtube.com/embed/FzNauYVdgLc?si=t54-GzDRyTJkSKZ6"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
 ## Description
 
 In the 'Embedded Systems in Robotics' course from Northwestern University's Master of Science in Robotics program, my team's final project involved designing and programming an autonomous system, capable of scanning, translating, and physically writing both written and spoken words or phrases from any language to any desired language. This series of tasks was performed by a Franka Panda Robot Arm, which executed the action of writing the translations onto a whiteboard.
@@ -23,7 +34,7 @@ This project was the culmination of the 'Embedded Systems in Robotics' course, c
 ## Gallery
 ### Videos
 
-Float Control Scheme:
+Picking Up & Putting Down Marker:
 
 <iframe
     width="560" height="315"
@@ -34,7 +45,38 @@ Float Control Scheme:
 >
 </iframe>
 
-Car Control Scheme:
+Speech Translation:
+
+<iframe
+    width="560" height="315"
+    src="https://www.youtube.com/embed/KhQWWGM9iRM?si=OOhAZMiVLYY0N3dI"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
+<iframe
+    width="560" height="315"
+    src="https://www.youtube.com/embed/KhQWWGM9iRM?si=OOhAZMiVLYY0N3dI"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
+Latin to Non-Latin Translation:
+
+<iframe
+    width="560" height="315"
+    src="https://www.youtube.com/embed/FzNauYVdgLc?si=t54-GzDRyTJkSKZ6"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
+Non-Latin to Latin Translation:
 
 <iframe
     width="560" height="315"
@@ -45,7 +87,18 @@ Car Control Scheme:
 >
 </iframe>
 
-Tank Control Scheme:
+Non-Latin to Non-Latin Translation:
+
+<iframe
+    width="560" height="315"
+    src="https://www.youtube.com/embed/KhQWWGM9iRM?si=OOhAZMiVLYY0N3dI"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
+Non-Latin to Non-Latin Translation:
 
 <iframe
     width="560" height="315"
