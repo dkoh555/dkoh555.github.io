@@ -2,11 +2,11 @@
 
 ## Video Demo
 
-The following demonstration is at 5x speed:
+Chinese to English Translation:
 
 <iframe
     width="560" height="315"
-    src="https://www.youtube.com/embed/FzNauYVdgLc?si=t54-GzDRyTJkSKZ6"
+    src="https://www.youtube.com/embed/sy4E9zgzy54?si=jPzDJOh9b5M4tX44"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
@@ -34,75 +34,44 @@ This project was the culmination of the 'Embedded Systems in Robotics' course, c
 ## Gallery
 ### Videos
 
+Speech Hindi Translation:
+
+<iframe
+    width="560" height="315"
+    src="https://www.youtube.com/embed/3O7hmz-6AjE?si=Cnvg6NPMrGYEk7bu"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
+Spanish to Korean Translation:
+
+<iframe
+    width="560" height="315"
+    src="https://www.youtube.com/embed/v-LlxOkiSV8?si=mUhZlx9luBWg6Sy0"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
+German to French Translation:
+
+<iframe
+    width="560" height="315"
+    src="https://www.youtube.com/embed/zRbn3_JTnu4?si=xJuFgmIEKTMfRRwU"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
 Picking Up & Putting Down Marker:
 
 <iframe
     width="560" height="315"
-    src="https://www.youtube.com/embed/FzNauYVdgLc?si=t54-GzDRyTJkSKZ6"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
-Speech Translation:
-
-<iframe
-    width="560" height="315"
-    src="https://www.youtube.com/embed/KhQWWGM9iRM?si=OOhAZMiVLYY0N3dI"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
-<iframe
-    width="560" height="315"
-    src="https://www.youtube.com/embed/KhQWWGM9iRM?si=OOhAZMiVLYY0N3dI"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
-Latin to Non-Latin Translation:
-
-<iframe
-    width="560" height="315"
-    src="https://www.youtube.com/embed/FzNauYVdgLc?si=t54-GzDRyTJkSKZ6"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
-Non-Latin to Latin Translation:
-
-<iframe
-    width="560" height="315"
-    src="https://www.youtube.com/embed/ZGGghOw5x7E?si=vDHbWZ39mUDPwb0D"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
-Non-Latin to Non-Latin Translation:
-
-<iframe
-    width="560" height="315"
-    src="https://www.youtube.com/embed/KhQWWGM9iRM?si=OOhAZMiVLYY0N3dI"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
-
-Non-Latin to Non-Latin Translation:
-
-<iframe
-    width="560" height="315"
-    src="https://www.youtube.com/embed/KhQWWGM9iRM?si=OOhAZMiVLYY0N3dI"
+    src="https://www.youtube.com/embed/hyf2UemsQXU?si=BickkqxGe-uree1P"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
@@ -111,4 +80,4 @@ Non-Latin to Non-Latin Translation:
 
 ### Images
 
-<img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/74b8a6f1-8425-42e0-a6d4-a464df5a5f97" height="300">
+<img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/816b980b-b258-467c-924a-22b9e9e9e584" height="300">
