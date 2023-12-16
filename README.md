@@ -36,3 +36,7 @@ You can also view my resume [here](./resume.pdf).
 [Gesture Tracking Glove Prototype](./gesture_tracking_glove.md): Developed a gesture-tracking glove with a custom PCB, using ESP32 and a variety of sensors for real-time visualization on web platforms.
 
 <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/d0df4512-65c9-4a40-bcbd-4b71b15ff030" height="250">
+
+[Custom Webcam PCB](./custom_webcam.md): Designed and developed a 50 x 50 mm webcam from scratch, including everything from PCB design, to embedded programming, to CAD for the enclosure.
+
+<img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/5c4a5bdf-e158-4129-8b2e-3b213bbcc028" height="250">
