@@ -1,15 +1,6 @@
 # Exploration Robot
 
-## Description
-
-In the 'Embedded Systems in Robotics' course from Northwestern University's Master of Science in Robotics program, I programmed a virtual robot to autonomously explore a simulated environment using Frontier Exploration. The robot, operating in the Gazebo simulation environment, dynamically navigated and mapped unknown terrain. This involved developing a custom ROS node in Python, which managed the robot's various exploration states and decision-making processes based on real-time environmental data.
-
-The project also included the integration of a visualization system using ROS, enabling the real-time tracking of the robot's exploration path in Rviz. This was pivotal for debugging and optimizing the robot's path planning strategy. The experience enhanced my skills in autonomous robotic navigation, ROS programming, and handling complex robotic systems in simulated environments.
-
-***Date:*** November 2023 - December 2023
-
-## Gallery
-### Videos
+## Video Demo
 
 Autonomous Exploration:
 
@@ -21,6 +12,17 @@ Autonomous Exploration:
     allowfullscreen
 >
 </iframe>
+
+## Description
+
+In the 'Embedded Systems in Robotics' course from Northwestern University's Master of Science in Robotics program, I programmed a virtual robot to autonomously explore a simulated environment using Frontier Exploration. The robot, operating in the Gazebo simulation environment, dynamically navigated and mapped unknown terrain. This involved developing a custom ROS node in Python, which managed the robot's various exploration states and decision-making processes based on real-time environmental data.
+
+The project also included the integration of a visualization system using ROS, enabling the real-time tracking of the robot's exploration path in Rviz. This was pivotal for debugging and optimizing the robot's path planning strategy. The experience enhanced my skills in autonomous robotic navigation, ROS programming, and handling complex robotic systems in simulated environments.
+
+***Date:*** November 2023 - December 2023
+
+## Gallery
+### Videos
 
 Manual Exploration:
 

@@ -29,6 +29,10 @@ You can also view my resume [here](./resume.pdf).
 
 <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/461f9df4-3ab1-4e97-b60f-5fcdf4fd01e1" height="250">
 
+[Trash Picking Robot](./trash_picking_robot.md): Developed a Trash-Picking Robot with a team, capable of patrolling an area for trash and disposing of it.
+
+<img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/04b7f2af-b6b2-4a85-ba09-568ea7c8de52" height="250">
+
 [Gesture Tracking Glove Prototype](./gesture_tracking_glove.md): Developed a gesture-tracking glove with a custom PCB, using ESP32 and a variety of sensors for real-time visualization on web platforms.
 
 <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/d0df4512-65c9-4a40-bcbd-4b71b15ff030" height="250">
