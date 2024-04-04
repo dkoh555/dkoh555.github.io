@@ -1,4 +1,4 @@
-# Omnid Robot (PAGE BEING UPDATED)
+# Omnid Robot (TO BE UPDATED)
 
 ## Video Demo
 
@@ -31,8 +31,8 @@ This work initiated the ROS Unified_Teleoperation project. More details are avai
 
 ***Links:*** [Demonstration of NU's Omnid Robots](https://www.youtube.com/watch?v=SEuFfONryL0&t=5s)
 
-## Gallery
-### Videos (PAGE BEING UPDATED)
+## Gallery (TO BE UPDATED)
+### Videos
 
 Float Teleop Mode:
 
