@@ -1,5 +1,5 @@
 # Porfolio
-Welcome to my portfolio! Here, you'll discover a range of engineering projects showcasing my experience in areas like C/C++ and Python programming, Robot Operating System (ROS), and Embedded Systems.
+Welcome to my portfolio! Here, you'll discover a range of engineering projects showcasing my experience in areas like C/C++ and Python programming, Robot Operating System (ROS), Simultaneous Localization and Mapping (SLAM), Machine Learning, and Embedded Systems.
 
 While I have a strong interest in robotics, constantly seeking to expand my knowledge and skills, I'm also enthusiastic about exploring new and potentially intriguing fields.
 
@@ -17,9 +17,9 @@ You can also view my resume [here](./Damien_Koh_Resume_010324.pdf).
 
 <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/2757bfbe-121a-49fd-bd30-0d3f5f6c0cd7" height="250">
 
-[Omnid Robot (PAGE BEING UPDATED)](./omnid_robot.md): Developed teleoperation features for Northwestern's custom Omnid robots, supporting varied control modes and enabling experiments in human-robot collaboration.
+[Omnid Robot (PAGE BEING UPDATED)](./omnid_robot.md): Developed teleoperation, lifecycle, and visualization features for Northwestern's custom Omnid robots, supporting varied control modes and enabling experiments in human-robot collaboration.
 
-<img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/461f9df4-3ab1-4e97-b60f-5fcdf4fd01e1" height="250">
+<img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/23654b38-c760-426a-a0ff-4eb13c8ac281" height="250">
 
 [Translator Robot: PolyglotBot](./polyglotbot.md): In a team, developed an autonomous system translating written phrases and writing them onto a whiteboard with a Franka Robot Arm.
 
