@@ -13,11 +13,15 @@ You can also view my resume [here](./Damien_Koh_Resume_010324.pdf).
 
 ## Highlight Projects
 
-[ROS Teleoperation Package: unified_teleop (PAGE BEING UPDATED)](./unified_teleop.md): Developing a ROS package for customizable robot teleoperation across various devices, including game controllers and SpaceNav.
+[SLAM Turtlebot (In Progress)](./slam_turtlebot.md): Developing a complete documented and tested ROS2 C++ Extended Kalman Filter SLAM (Simultaneous Localization and Mapping) package in ROS2 entirely from scratch for a Turtlebot3 Burger.
+
+<img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/f3134992-d5fb-4053-86e8-ca44db936b43" height="250">
+
+[ROS Package: unified_teleop](./unified_teleop.md): Unified Teleop is a ROS package designed to elevate robot teleoperation, supporting a wide range of input devices from game controllers to SpaceNav mice. It offers customizable control schemes, intuitive modifiers, and adaptable communication options to fit any robot's unique design requirements.
 
 <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/2757bfbe-121a-49fd-bd30-0d3f5f6c0cd7" height="250">
 
-[Omnid Robot (PAGE BEING UPDATED)](./omnid_robot.md): Developed teleoperation, lifecycle, and visualization features for Northwestern's custom Omnid robots, supporting varied control modes and enabling experiments in human-robot collaboration.
+[Omnid Robot](./omnid_robot.md): Developed teleoperation, lifecycle, and visualization features for Northwestern's custom Omnid robots, supporting varied control modes and enabling experiments in human-robot collaboration.
 
 <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/23654b38-c760-426a-a0ff-4eb13c8ac281" height="250">
 

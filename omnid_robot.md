@@ -1,4 +1,4 @@
-# Omnid Robot (TO BE UPDATED)
+# Omnid Robot
 
 ## Video Demo
 
@@ -7,6 +7,17 @@ Conference Demo:
 <iframe
     width="560" height="315"
     src="https://www.youtube.com/embed/PgkkoWm-OUE?si=AgtToMl0cNfM7szw"
+    frameborder="0"
+    allow="autoplay; encrypted-media"
+    allowfullscreen
+>
+</iframe>
+
+Omnid Introduction:
+
+<iframe
+    width="560" height="315"
+    src="https://www.youtube.com/embed/SEuFfONryL0?si=JoLC2VMZf3hTJdPE"
     frameborder="0"
     allow="autoplay; encrypted-media"
     allowfullscreen
@@ -25,14 +36,16 @@ Equally important was my work on engineering the ROS2 Lifecycle Node functionali
 
 Together, these developments aim to create a more adaptable, efficient, and user-friendly platform for conducting robotic research and facilitating effective human-robot collaborations.
 
+In recognition of the work on these Omnid Robots, our lab group and myself were invited to the 2024 MARS (Machine Learning, Automation, Robotics, and Space) Conference which was hosted and organized by Jeff Bezos.
+
 This work initiated the ROS Unified_Teleoperation project. More details are available in my portfolio.
 
 ***Date:*** July 2023 - September 2023
 
 ***Links:*** [Demonstration of NU's Omnid Robots](https://www.youtube.com/watch?v=SEuFfONryL0&t=5s)
 
-## Gallery (TO BE UPDATED)
-### Videos
+## Gallery
+### Videos (Additional Videos to be Added)
 
 Float Teleop Mode:
 
