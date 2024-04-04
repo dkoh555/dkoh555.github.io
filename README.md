@@ -13,21 +13,21 @@ You can also view my resume [here](./Damien_Koh_Resume_010324.pdf).
 
 ## Highlight Projects
 
+[ROS Teleoperation Package: unified_teleop (PAGE BEING UPDATED)](./unified_teleop.md): Developing a ROS package for customizable robot teleoperation across various devices, including game controllers and SpaceNav.
+
+<img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/2757bfbe-121a-49fd-bd30-0d3f5f6c0cd7" height="250">
+
+[Omnid Robot (PAGE BEING UPDATED)](./omnid_robot.md): Developed teleoperation features for Northwestern's custom Omnid robots, supporting varied control modes and enabling experiments in human-robot collaboration.
+
+<img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/461f9df4-3ab1-4e97-b60f-5fcdf4fd01e1" height="250">
+
 [Translator Robot: PolyglotBot](./polyglotbot.md): In a team, developed an autonomous system translating written phrases and writing them onto a whiteboard with a Franka Robot Arm.
 
 <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/816b980b-b258-467c-924a-22b9e9e9e584" height="250">
 
-[ROS Teleoperation Package: unified_teleop](./unified_teleop.md): Developing a ROS package for customizable robot teleoperation across various devices, including game controllers and SpaceNav.
-
-<img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/2757bfbe-121a-49fd-bd30-0d3f5f6c0cd7" height="250">
-
 [Exploration Robot](./exploration_robot.md): Programmed a robot that utilizes Frontier Exploration to autonomously explore a simulated environment in ROS & Gazebo.
 
 <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/9f44426c-2cb9-405b-9ec9-8b5542ffffde" height="250">
-
-[Omnid Robot Teleoperation](./omnid_robot_teleop.md): Developed teleoperation features for Northwestern's custom Omnid robots, supporting varied control modes and enabling experiments in human-robot collaboration.
-
-<img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/461f9df4-3ab1-4e97-b60f-5fcdf4fd01e1" height="250">
 
 [Trash Picking Robot](./trash_picking_robot.md): Developed a Trash-Picking Robot with a team, capable of patrolling an area for trash and disposing of it.
 

@@ -12,7 +12,7 @@
 
 <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/9f44426c-2cb9-405b-9ec9-8b5542ffffde" height="250">
 
-[Omnid Robot Teleoperation](./omnid_robot_teleop.md)
+[Omnid Robot Teleoperation](./omnid_robot.md)
 
 <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/461f9df4-3ab1-4e97-b60f-5fcdf4fd01e1" height="250">
 
