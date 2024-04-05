@@ -13,6 +13,10 @@ You can also view my resume [here](./Damien_Koh_Resume_010324.pdf).
 
 ## Highlight Projects
 
+[RGB Data Fusion w/ Isaac Gym (In Progress)](./rgb_isaac_gym.md): Incorporating RGB camera data into Isaac Gym's simulation environment to augment Unitree's robotic dog's ability to navigate extreme terrains, building on existing scan dots and depth camera inputs for advanced parkour capabilities. This aims to enhance the robot's environmental understanding and performance in challenging landscapes through multisensory integration techniques.
+
+<img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/4ee89254-f74c-4d8d-bf30-9301b15ff50f" height="250">
+
 [SLAM Turtlebot (In Progress)](./slam_turtlebot.md): Developing a complete documented and tested ROS2 C++ Extended Kalman Filter SLAM (Simultaneous Localization and Mapping) package in ROS2 entirely from scratch for a Turtlebot3 Burger.
 
 <img src="https://github.com/dkoh555/dkoh555.github.io/assets/107823507/f3134992-d5fb-4053-86e8-ca44db936b43" height="250">
