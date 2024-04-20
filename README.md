@@ -7,7 +7,7 @@ My upcoming coursework and projects in January to March 2024 will include SLAM &
 
 To learn more about me and how to reach out, click [here](./about_me.md).
 
-You can also view my resume [here](./Damien_Koh_Resume_010324.pdf).
+You can also view my resume [here](./Damien_Koh_Resume_040524.pdf).
 
 <!-- To view my entire collection of projects, click [here](./all_projects.md). ADD THIS WHEN DONE-->
 
